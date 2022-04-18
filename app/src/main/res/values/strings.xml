@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Age App</string>
+    <string name="enter_yob">Enter YOB</string>
+    <string name="press_me_to_find_out">Press me to find out.</string>
+    <string name="your_age_is">Your age is...</string>
+</resources>
